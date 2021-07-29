@@ -54,7 +54,7 @@ iOS 디자인 패턴 정리입니다.
 ![MVP](https://user-images.githubusercontent.com/76652929/127452602-1b242466-2dd1-483a-9ed7-78af7f689ade.png)
 
 
-   + MVC 패턴에서 Cotroller이 Presenter로 변경 되었습니다. 그렇지만 이번엔 View와 Presenter가 1:1로 대응되어서 View와 Presenter의 의존성이 커지는 결과가 나왔습니다. 
+   + MVC 패턴에서 Cotroller이 Presenter로 변경 되었습니다. 그렇지만 이번엔 View와 Presenter가 1:1로 대응되어서 View와 Presenter의 의존성이 큰 결과가 나왔습니다. 
 
 
 
@@ -72,7 +72,7 @@ iOS 디자인 패턴 정리입니다.
 ![VIPER-Design-patterns-modules-interaction-description](https://user-images.githubusercontent.com/76652929/127454364-f9c43802-1098-4f92-8e56-516d0bfe8135.png)
 
   + VIPER은 위의 패턴들에서 화면전환을 추가한 것입니다. 
-  + View : 화면부분입니다..
+  + View : 화면부분입니다.
   + Presenter : View에 데이터를 보여주는 로직을 맡는 부분입니다.
   + Router : 화면의 전환을 어떻게 할지 담당하는 부분입니다.
   + Interactor : 데이터 처리를 담당하는 부분입니다.
