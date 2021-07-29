@@ -1,7 +1,10 @@
 # iOS_Design_Pattern
 iOS 디자인 패턴 정리입니다. 
 
-- # 디자인 패턴이란
+# 목차 
+1. [디자인 패턴이란](#디자인-패턴이란)
+
+# 디자인 패턴이란
 
 간단한 어플리케이션을 만들땐 모든 기능을 한 곳에 모아두고 코딩을 하는 것이 가능하고, 효율적일 수 있습니다. 하지만 어플리케이션의 크기가 커지면 이러한 방식으로 하는 건 비효율적이게 됩니다. 
 그래서 이를 해결하기 위해서 다양한 디자인 패턴들이 등장했습니다. 
@@ -13,11 +16,11 @@ iOS 디자인 패턴 정리입니다.
 디자인 패턴의 분류는 분업을 어떻게 시키는 지에 따라서 달라집니다. 
 
 
-- # 디자인 패턴의 종류 
+# 디자인 패턴의 종류 
 
 
 
-- # MVC
+# MVC
 
 
 ![MVC](https://user-images.githubusercontent.com/76652929/127449283-2c067ea0-d4ff-41af-a067-a71e21739373.png)
@@ -36,7 +39,7 @@ iOS 디자인 패턴 정리입니다.
 
 
 
-- # MVP
+# MVP
 
 
  + MVC 패턴의 View와 Model의 의존성 문제를 해결 하기 위해서 나왔습니다. 
@@ -48,7 +51,7 @@ iOS 디자인 패턴 정리입니다.
 
 
 
-- # MVVM
+# MVVM
 
 ![MVVMPattern](https://user-images.githubusercontent.com/76652929/127453230-c8ef272d-45e7-47e4-aa91-03cb2348166a.png)
 
@@ -58,7 +61,7 @@ iOS 디자인 패턴 정리입니다.
 
 
 
-- # VIPER
+# VIPER
 ![VIPER-Design-patterns-modules-interaction-description](https://user-images.githubusercontent.com/76652929/127454364-f9c43802-1098-4f92-8e56-516d0bfe8135.png)
 
   + VIPER은 위의 패턴들에서 화면전환을 추가한 것입니다. 
@@ -69,7 +72,7 @@ iOS 디자인 패턴 정리입니다.
   + Entity : 다른 디자인 패턴에서 Model과 같은 의미를 가지는 부분입니다. 
 
 
-- # Delegation 
+# Delegation 
 
 ![delegation](https://user-images.githubusercontent.com/76652929/127456487-d142d922-eb4a-4b58-ab39-22793552e3c6.png)
 
@@ -79,7 +82,7 @@ iOS 디자인 패턴 정리입니다.
 
 
 
-- # Singleton
+# Singleton
 
 ![singleton](https://user-images.githubusercontent.com/76652929/127458842-63a2ee8e-498b-4e15-a72f-b0418e4a6239.png)
 
