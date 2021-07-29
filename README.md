@@ -54,7 +54,7 @@ iOS 디자인 패턴 정리입니다.
 ![MVP](https://user-images.githubusercontent.com/76652929/127452602-1b242466-2dd1-483a-9ed7-78af7f689ade.png)
 
 
-   + MVC 패턴에서 Cotroller이 Presenter로 변경 되었습니다. 그렇지만 이번엔 View와 Presenter가 1:1로 대응되어서 View와 Presenter의 의존성이 큰 결과가 나왔습니다. 
+   + MVC 패턴에서 Cotroller이 Presenter로 변경 되었습니다. 그렇지만 이번엔 View와 Presenter가 1:1로 대응되어서 View와 Presenter의 의존성이 큰 가 나왔습니다. 
 
 
 
