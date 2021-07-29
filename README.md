@@ -3,6 +3,13 @@ iOS 디자인 패턴 정리입니다.
 
 # 목차 
 1. [디자인 패턴이란](#디자인-패턴이란)
+2. [디자인 패턴의 종류](#디자인-패턴의-종류)
+ - [MVC](#MVC)
+ - [MVP](#MVP)
+ - [MVVM](#MVVM)
+ - [VIPER](#VIPER)
+ - [Delegation](#Delegation)
+ - [Singleton](#Singleton)
 
 # 디자인 패턴이란
 
